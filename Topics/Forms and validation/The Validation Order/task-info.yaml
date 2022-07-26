@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Default error for a field
+- text: No errors, a browser will validate such input
+- text: Both default and custom errors
+- text: Custom error of yours
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7652#comment
+status: Solved
+record: -1

@@ -1,0 +1,10 @@
+<h2>The Validation Order</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Assume that your form has a <em>fullname</em> field.</p> 
+  <p>If the input does not contain a space between the first name and the last name, you add a custom error:</p> 
+  <pre><code class="language-python">form.add_error('fullname', 'first name the last name should be separated with space')</code></pre> 
+  <p>What errors will Django produce if the user tries to send data "<em>Reinhardt</em>"?</p>
+ </body>
+</html>

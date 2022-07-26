@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def get_cleaned_data(raw_data):
+        return
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7655#comment
+status: Failed
+feedback:
+  message: |
+    Failed. You should validate data before accessing cleaned_data attribute
+  time: Sat, 23 Jul 2022 17:59:51 UTC
+record: -1

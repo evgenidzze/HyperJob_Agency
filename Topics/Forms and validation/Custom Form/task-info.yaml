@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    from django import forms
+
+
+    class ProductForm(forms.Form):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7653#comment
+status: Solved
+record: -1

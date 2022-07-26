@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Handle a user's request
+- text: Validate input data
+- text: Show errors for a user
+- text: Render form in HTML
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7651#comment
+status: Solved
+record: -1
